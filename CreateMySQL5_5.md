@@ -91,3 +91,5 @@ Cài thêm libncurses5 là được
 ```
 sudo apt-get install libncurses5
 ```
+
+### Nguồn: https://www.vetechno.in/2021/04/how-to-install-mysql-5-5-on-ubuntu-20-04-LTS.html
